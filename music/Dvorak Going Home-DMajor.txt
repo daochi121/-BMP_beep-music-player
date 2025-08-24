@@ -1,0 +1,81 @@
+- 《念故乡》
+|BPM 52
+|TTNM 2
+
+- Going home
+| D:8 16 | G:16 | G:4
+- going home
+| D:8 16 | S:16 | A:4
+- I am going home
+| S:8 16 | D:16 | G:8 16 | D:16 | S:2
+- Quiet light,
+| D:8 16 | G:16 | G:4
+- some still day
+| D:8 16 | S:16 | A:4
+- I am just going home
+| S:8 16 | D:16 | S:8 16 | A:16 | A:2
+
+- It's not far,
+| H:8 16 | Q:16 | Q:4
+- just close by,
+| J:8 | G:8 | H:4
+- through an open door
+| H:8 | Q:8 | J:8 | G:8 | H:2
+- Work all done,
+| H:8 16 | Q:16 | Q:4
+- care laid by
+| J:8 | G:8 | H:4
+- never fear no more
+| H:8 | Q:8 | J:8 | G:8 | H:2
+
+
+- Mother's there
+| D:8 16 | G:16 | G:4
+- expecting me
+| D:8 16 | S:16 | A:4
+- Father's waiting too
+| S:8 16 | D:16 | G:8 16 | D:16 | S:2
+- Lots of faces gathered there
+| D:8 16 | G:16 | G:4 | Q:8 16 | W:16 | E:4
+- All the friends I knew
+| W:8 16 | Q:16 | W:8 | H:8 | Q:2
+
+- Going home
+| D:8 16 | G:16 | G:4
+- going home
+| D:8 16 | S:16 | A:4
+- I am going home
+| S:8 16 | D:16 | G:8 16 | D:16 | S:2
+- Quiet light,
+| D:8 16 | G:16 | G:4
+- some still day
+| D:8 16 | S:16 | A:4
+- I am just going home
+| S:8 16 | D:16 | S:8 16 | A:16 | A:2
+
+- It's not far,
+| H:8 16 | Q:16 | Q:4
+- just close by,
+| J:8 | G:8 | H:4
+- through an open door
+| H:8 | Q:8 | J:8 | G:8 | H:2
+- Work all done,
+| H:8 16 | Q:16 | Q:4
+- care laid by
+| J:8 | G:8 | H:4
+- never fear no more
+| H:8 | Q:8 | J:8 | G:8 | H:2
+
+
+- Mother's there
+| D:8 16 | G:16 | G:4
+- expecting me
+| D:8 16 | S:16 | A:4
+- Father's waiting too
+| S:8 16 | D:16 | G:8 16 | D:16 | S:2
+- Lots of faces gathered there
+| D:8 16 | G:16 | G:4 | Q:8 16 | W:16 | E:4
+- All the friends I knew
+| W:8 16 | Q:16 | W:8 | H:8 | Q:2
+
+
