@@ -23,7 +23,7 @@ sh <just generated sh file>
 #My English is sorry
 
 
-#
+#中文请见：https://gitee.com/dzwdyx121/beepmusicsh
 beep命令播放音乐
 #请在该目录执行sh脚本 #记得安装beep,perl命令! apt install beep
 
