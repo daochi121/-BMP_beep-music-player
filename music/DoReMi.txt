@@ -21,7 +21,7 @@ Third var is Second-Sound value it just like Second var,it will plus to Second v
 #pitch
 |E4 4 8
 #Hz ms
-|THZ 261.626 214.2857142857143
+|THZ 261.626 8
 
 |E4 4
 |C4 4
